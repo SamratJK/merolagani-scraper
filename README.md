@@ -11,6 +11,6 @@ python3 data.py
 ```
 You will have FloorSheet.csv file 
 
-# Disclamer
+
 For educational purposes only
 
